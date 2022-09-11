@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'podnew'
-  s.version          = '0.1.0'
+  s.version          = '1.1.0'
   s.summary          = 'A short description of podnew.'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/zhengzhengGuo/podRepository'
+  s.homepage         = 'https://github.com/zhengzhengGuo/podnew'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'zhengzhengGuo' => 'zzg1017998281@163.com' }
