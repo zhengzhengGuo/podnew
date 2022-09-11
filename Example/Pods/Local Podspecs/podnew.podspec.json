@@ -1,0 +1,22 @@
+{
+  "name": "podnew",
+  "version": "0.1.0",
+  "summary": "A short description of podnew.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhengzhengGuo/podRepository",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhengzhengGuo": "zzg1017998281@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhengzhengGuo/podnew.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "podnew/Classes/**/*"
+}

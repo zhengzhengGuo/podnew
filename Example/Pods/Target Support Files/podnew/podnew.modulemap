@@ -1,0 +1,6 @@
+framework module podnew {
+  umbrella header "podnew-umbrella.h"
+
+  export *
+  module * { export * }
+}

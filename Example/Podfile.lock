@@ -1,0 +1,16 @@
+PODS:
+  - podnew (0.1.0)
+
+DEPENDENCIES:
+  - podnew (from `../`)
+
+EXTERNAL SOURCES:
+  podnew:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podnew: 0cfc1da2d5958c537ad1e850426c38d80aac2c05
+
+PODFILE CHECKSUM: 1f04b8f75a97b238f30edf7f633a4bafa61ebe7a
+
+COCOAPODS: 1.11.3
